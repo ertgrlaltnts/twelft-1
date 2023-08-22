@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "553794752352",
+    "project_id": "twelfth-a78d3",
+    "storage_bucket": "twelfth-a78d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:553794752352:android:ddd18848c6f64b16625805",
+        "android_client_info": {
+          "package_name": "com.twelfthfrontend"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "553794752352-0l2dv2ehf9d76iebunop9k2i3dfg76v7.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.twelfthfrontend",
+            "certificate_hash": "69c413d8d546f2446596c17ce52c6c5e4d57cf20"
+          }
+        },
+        {
+          "client_id": "553794752352-2jp61cbmvp958oteil3asbga85723rqf.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.twelfthfrontend",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "553794752352-n78v7jh5otp167jlb78m8nqekfq198s2.apps.googleusercontent.com",
+          "client_type": 3,
+          "android_info": {
+            "package_name": "com.twelfthfrontend",
+            "certificate_hash": "9d398d938105089cef07672d93e29194c09d9a2b"
+          }
+        },
+        {
+          "client_id": "553794752352-hk4bmd84ugqtfd57eve0eh96b67qcofb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBscR_zpilCORz4NqqasApXbs0lsXi8oIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "553794752352-hk4bmd84ugqtfd57eve0eh96b67qcofb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
